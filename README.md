@@ -10,7 +10,7 @@
 
 - 💬 Ask me anything about **Python, SQL, AWS!**
 
-- 📫 You can reach me by **yugosaito0414@gmail.com**
+- 📫 You can reach me by **yugosaito68@gmail.com**
 
 
 ## 🌐 Socials:
